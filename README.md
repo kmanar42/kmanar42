@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm L3VI 👋</h1>
-<h3 align="center">A BEGINNER PROGRAMMER IN : C / HTML / CSS / JS | And also a graphic designer</h3>
+<h3 align="center">A BEGINNER PROGRAMMER IN : C / HTML / CSS / JS |
+ And also a graphic designer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

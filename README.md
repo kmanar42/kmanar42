@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm L3VI 👋</h1>
-<h3 align="center"> BEGINNER PROGRAMMER IN : C / HTML / CSS / JS <br>& ALSO A GRAPHICE DESIGNER<br>& AN ARTIST</h3>
+<h3 align="center"> 💻 Beginner Programmer – C, HTML, CSS, JS<br>🎨 Graphic Designer & Artist</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

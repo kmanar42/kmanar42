@@ -1,6 +1,12 @@
  <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="250" />
+<div align="center">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" />
+
+*"Eat. Sleep. Code. Design. Repeat."*
+
+</div>
 
 # Hey, I'm Levi 👋
 
@@ -8,19 +14,16 @@
 
 *Turning ideas into visuals, and ideas into code.*
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)](https://github.com/YOUR_USERNAME)
-
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎨 Artist & Graphic Designer with a passion for creativity.
-- 💻 Interested in software development and problem-solving.
-- 🐧 Linux enthusiast who enjoys exploring the terminal.
-- 🚀 Always learning, building, and experimenting with new ideas.
-- 🎯 Combining creativity and technology to create something unique.
+- 🎨 Artist & Graphic Designer;
+- 💻 Interested in software development and problem-solving;
+- 🚀 Always learning, building, and experimenting with new ideas;
+- 🎯 Combining creativity and technology to create something unique;
 
 ## ⚡ Tech Stack
 
@@ -40,15 +43,6 @@
 
 </div>
 
-## 💻 Coding Mode
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" />
-
-*"Eat. Sleep. Code. Design. Repeat."*
-
-</div>
 
 ## 📊 GitHub Stats
 

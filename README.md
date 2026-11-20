@@ -1,11 +1,71 @@
-<h1 align="center">Hi, I'm L3VI 👋</h1>
-<h3 align="center"> 💻 Beginner Programmer – C, HTML, CSS, JS<br>🎨 Graphic Designer & Artist</h3>
+ <div align="center">
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="250" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/jGRsyEfcvF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jGRsyEfcvF" height="30" width="40" /></a>
-</p>
+# Hey, I'm Levi 👋
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+### `Artist` • `Graphic Designer` • `Developer`
+
+*Turning ideas into visuals, and ideas into code.*
+
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)](https://github.com/YOUR_USERNAME)
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎨 Artist & Graphic Designer with a passion for creativity.
+- 💻 Interested in software development and problem-solving.
+- 🐧 Linux enthusiast who enjoys exploring the terminal.
+- 🚀 Always learning, building, and experimenting with new ideas.
+- 🎯 Combining creativity and technology to create something unique.
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=html,css,js,c" />
+
+### Tools & Environment
+
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,vim" />
+
+### Design
+
+<img src="https://skillicons.dev/icons?i=ps,ai,figma" />
+
+</div>
+
+## 💻 Coding Mode
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" />
+
+*"Eat. Sleep. Code. Design. Repeat."*
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌌 Building my own digital universe.
+
+**Code with logic. Design with imagination.**
+
+</div>
